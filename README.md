@@ -93,7 +93,7 @@ endmodule
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/uc%20timimg.png?raw=true)
 
 ### TRUTH TABLE FOR UP COUNTER:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/up%20truth%20table.png?raw=true)
 
 ### RTL LOGIC FOR DOWN COUNTER:
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/op%20dc.png?raw=true)
@@ -102,6 +102,6 @@ endmodule
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/timing%20dc.png?raw=true)
 
 ### TRUTH TABLE FOR DOWN COUNTER:
-![output](?raw=true)
+![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/dc%20truth%20table.png?raw=true)
 
 ### RESULTS:
