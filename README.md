@@ -86,7 +86,7 @@ assign counter=counter_down;
 endmodule
 ```
 ### OUTPUT:
-### RTL LOGIC UP COUNTER:  
+### RTL LOGIC FOR UP COUNTER:  
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/op%20uc.png?raw=true)
 
 ### TIMING DIGRAMS FOR UP COUNTER: 
@@ -95,7 +95,7 @@ endmodule
 ### TRUTH TABLE FOR UP COUNTER:
 ![output](?raw=true)
 
-### RTL LOGIC DOWN COUNTER:
+### RTL LOGIC FOR DOWN COUNTER:
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/op%20dc.png?raw=true)
 
 ### TIMING DIGRAMS FOR DOWN COUNTER:
