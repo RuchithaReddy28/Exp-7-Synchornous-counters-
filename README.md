@@ -89,19 +89,19 @@ endmodule
 ### RTL LOGIC UP COUNTER:  
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/op%20uc.png?raw=true)
 
-### TIMING DIGRAMS FOR COUNTER : 
+### TIMING DIGRAMS FOR UP COUNTER: 
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/uc%20timimg.png?raw=true)
 
-### TRUTH TABLE:
+### TRUTH TABLE FOR UP COUNTER:
 ![output](?raw=true)
 
 ### RTL LOGIC DOWN COUNTER:
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/op%20dc.png?raw=true)
 
-### TIMING DIGRAMS FOR COUNTER:
+### TIMING DIGRAMS FOR DOWN COUNTER:
 ![output](https://github.com/RuchithaReddy28/Exp-7-Synchornous-counters-/blob/main/timing%20dc.png?raw=true)
 
-### TRUTH TABLE:
+### TRUTH TABLE FOR DOWN COUNTER:
 ![output](?raw=true)
 
 ### RESULTS:
